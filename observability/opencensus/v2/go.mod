@@ -3,7 +3,7 @@ module github.com/cloudevents/sdk-go/observability/opencensus/v2
 go 1.18
 
 require (
-	github.com/cloudevents/sdk-go/v2 v2.15.2
+	github.com/cloudevents/sdk-go/v2 v2.15.1
 	github.com/lightstep/tracecontext.go v0.0.0-20181129014701-1757c391b1ac
 	github.com/stretchr/testify v1.8.0
 	go.opencensus.io v0.22.0
