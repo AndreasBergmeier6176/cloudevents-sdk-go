@@ -3,7 +3,7 @@ module github.com/cloudevents/sdk-go/protocol/stan/v2
 go 1.18
 
 require (
-	github.com/cloudevents/sdk-go/v2 v2.15.2
+	github.com/cloudevents/sdk-go/v2 v2.15.0
 	github.com/nats-io/stan.go v0.10.4
 )
 

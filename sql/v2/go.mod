@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10
-	github.com/cloudevents/sdk-go/v2 v2.15.2
+	github.com/cloudevents/sdk-go/v2 v2.15.0
 	github.com/stretchr/testify v1.8.0
 	sigs.k8s.io/yaml v1.3.0
 )
